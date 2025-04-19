@@ -11,7 +11,6 @@ Download and place patch.xp3 into the same folder as the exe file.
 | | | |
 |-|-|-|
 | Yuu | Translator, Coder | |
-| Google Translate | Machine Translator | |
 
 **Thank you for your support**: JR, Akyn, MockCat 
 
